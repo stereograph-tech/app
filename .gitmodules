@@ -1,0 +1,3 @@
+[submodule "src/stereograph-ui"]
+	path = src/stereograph-ui
+	url = https://github.com/theBull/stereograph-ui.git
